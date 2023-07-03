@@ -1,0 +1,101 @@
+.div-wrapper {
+  height: 18px;
+  width: 459px;
+}
+
+.div-wrapper .component-chart-2 {
+  height: 18px;
+  position: relative;
+  width: 473px;
+}
+
+.div-wrapper .unit {
+  color: #7c9bbf;
+  font-family: "IBM Plex Sans", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  left: 432px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+}
+
+.div-wrapper .text-wrapper {
+  color: #7c9bbf;
+  font-family: "IBM Plex Sans", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  left: 359px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+}
+
+.div-wrapper .unit-2 {
+  color: #7c9bbf;
+  font-family: "IBM Plex Sans", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  left: 287px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+}
+
+.div-wrapper .unit-3 {
+  color: #7c9bbf;
+  font-family: "IBM Plex Sans", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  left: 216px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+}
+
+.div-wrapper .unit-4 {
+  color: #7c9bbf;
+  font-family: "IBM Plex Sans", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  left: 144px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+}
+
+.div-wrapper .unit-5 {
+  color: #7c9bbf;
+  font-family: "IBM Plex Sans", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  left: 72px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+}
+
+.div-wrapper .unit-6 {
+  color: #7c9bbf;
+  font-family: "IBM Plex Sans", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+}

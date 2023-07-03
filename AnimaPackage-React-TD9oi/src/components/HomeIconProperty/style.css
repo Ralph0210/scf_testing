@@ -1,0 +1,13 @@
+.home-icon-property {
+  align-items: flex-start;
+  display: flex;
+  gap: 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.home-icon-property .icon-check {
+  height: 30px;
+  min-width: 30px;
+  position: relative;
+}

@@ -1,0 +1,1 @@
+export { PropertyVariantWrapper } from "./PropertyVariantWrapper";

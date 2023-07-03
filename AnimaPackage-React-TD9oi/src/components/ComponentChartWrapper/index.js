@@ -1,0 +1,1 @@
+export { ComponentChartWrapper } from "./ComponentChartWrapper";

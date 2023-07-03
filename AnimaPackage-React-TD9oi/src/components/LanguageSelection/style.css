@@ -1,0 +1,25 @@
+.language-selection {
+  height: 20px;
+  position: relative;
+  width: 40px;
+}
+
+.language-selection .EN {
+  color: #7c9cbf;
+  font-family: "Helvetica Neue-Bold", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: -1px;
+}
+
+.language-selection .mingcute-down-fill {
+  height: 15px;
+  left: 25px;
+  position: absolute;
+  top: 3px;
+  width: 15px;
+}

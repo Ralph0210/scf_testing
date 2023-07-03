@@ -1,0 +1,1 @@
+export { ComponentChart } from "./ComponentChart";

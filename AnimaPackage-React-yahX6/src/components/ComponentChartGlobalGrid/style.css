@@ -1,0 +1,83 @@
+.component-chart-global-grid {
+  height: 218px;
+  width: 552px;
+}
+
+.component-chart-global-grid .component-chart-4 {
+  height: 218px;
+  position: relative;
+}
+
+.component-chart-global-grid .axis {
+  height: 18px;
+  left: 0;
+  position: absolute;
+  top: 200px;
+  width: 554px;
+}
+
+.component-chart-global-grid .dash-line {
+  height: 1px;
+  left: 52px;
+  position: absolute;
+  top: 9px;
+  width: 498px;
+}
+
+.component-chart-global-grid .count {
+  color: #7c9bbf;
+  font-family: "IBM Plex Sans", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 39px;
+}
+
+.component-chart-global-grid .axis-2 {
+  height: 18px;
+  left: 0;
+  position: absolute;
+  top: 150px;
+  width: 554px;
+}
+
+.component-chart-global-grid .axis-3 {
+  height: 18px;
+  left: 0;
+  position: absolute;
+  top: 100px;
+  width: 554px;
+}
+
+.component-chart-global-grid .axis-4 {
+  height: 18px;
+  left: 0;
+  position: absolute;
+  top: 50px;
+  width: 554px;
+}
+
+.component-chart-global-grid .axis-5 {
+  height: 16px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 554px;
+}
+
+.component-chart-global-grid .count-2 {
+  color: #7c9bbf;
+  font-family: "IBM Plex Sans", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 39px;
+}

@@ -1,0 +1,200 @@
+.frame-wrapper {
+  border-radius: 15px;
+  height: 750px;
+  position: relative;
+  width: 1220px;
+}
+
+.frame-wrapper .dimensions {
+  height: 38px;
+  left: 774px;
+  position: absolute;
+  top: 555px;
+  width: 364px;
+}
+
+.frame-wrapper .component-chart-global-dimension-primary {
+  height: 38px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 166px !important;
+}
+
+.frame-wrapper .component-chart-instance {
+  background-color: #70b77e !important;
+}
+
+.frame-wrapper .component-chart-global-dimension-secondary {
+  height: 38px !important;
+  left: 198px !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 166px !important;
+}
+
+.frame-wrapper .component-chart-global-dimension-secondary-instance {
+  background-color: #0e518e !important;
+}
+
+.frame-wrapper .component-chart-global-separator-horizontal-instance {
+  left: 496px !important;
+  position: absolute !important;
+  top: 514px !important;
+  width: 724px !important;
+}
+
+.frame-wrapper .design-component-instance-node {
+  width: 726px !important;
+}
+
+.frame-wrapper .component-chart-global-units-instance {
+  height: 24px !important;
+  left: 585px !important;
+  position: absolute !important;
+  top: 469px !important;
+  width: 615px !important;
+}
+
+.frame-wrapper .component-chart-5 {
+  left: 5px !important;
+  width: 620px !important;
+}
+
+.frame-wrapper .component-chart-6 {
+  left: 579px !important;
+}
+
+.frame-wrapper .component-chart-7 {
+  left: 481px !important;
+}
+
+.frame-wrapper .component-chart-8 {
+  left: 385px !important;
+}
+
+.frame-wrapper .component-chart-9 {
+  left: 289px !important;
+}
+
+.frame-wrapper .component-chart-10 {
+  left: 193px !important;
+}
+
+.frame-wrapper .component-chart-11 {
+  left: 96px !important;
+}
+
+.frame-wrapper .overlap-group-2 {
+  height: 296px;
+  left: 547px;
+  position: absolute;
+  top: 157px;
+  width: 662px;
+}
+
+.frame-wrapper .component-chart-global-grid-instance {
+  height: 296px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 662px !important;
+}
+
+.frame-wrapper .component-chart-12 {
+  height: 290px !important;
+}
+
+.frame-wrapper .component-chart-13 {
+  top: 272px !important;
+  width: 664px !important;
+}
+
+.frame-wrapper .component-chart-14 {
+  left: 62px !important;
+  top: 12px !important;
+  width: 600px !important;
+}
+
+.frame-wrapper .component-chart-15 {
+  width: 47px !important;
+}
+
+.frame-wrapper .component-chart-16 {
+  top: 204px !important;
+  width: 664px !important;
+}
+
+.frame-wrapper .component-chart-17 {
+  top: 136px !important;
+  width: 664px !important;
+}
+
+.frame-wrapper .component-chart-18 {
+  top: 68px !important;
+  width: 664px !important;
+}
+
+.frame-wrapper .component-chart-19 {
+  width: 664px !important;
+}
+
+.frame-wrapper .component-chart-line-curvea {
+  height: 237px !important;
+  left: 38px !important;
+  top: 35px !important;
+  width: 613px !important;
+}
+
+.frame-wrapper .component-chart-line-curveb {
+  height: 195px !important;
+  left: 38px !important;
+  top: 31px !important;
+  width: 613px !important;
+}
+
+.frame-wrapper .frame-2 {
+  align-items: flex-start;
+  background-color: #0e518e;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 300px;
+  height: 750px;
+  left: 0;
+  padding: 90px 45px;
+  position: absolute;
+  top: 0;
+  width: 420px;
+}
+
+.frame-wrapper .understanding {
+  color: #fdfffc;
+  font-family: "Helvetica Neue-Bold", Helvetica;
+  font-size: 40px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.frame-wrapper .the-SCF-offers {
+  color: transparent;
+  font-family: "Helvetica Neue-Medium", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: 320px;
+}
+
+.frame-wrapper .text-wrapper-2 {
+  color: #fdfffcbf;
+}
+
+.frame-wrapper .text-wrapper-3 {
+  color: #ffffff;
+}

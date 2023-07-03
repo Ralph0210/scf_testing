@@ -1,0 +1,1 @@
+export { PropertyVariant } from "./PropertyVariant";

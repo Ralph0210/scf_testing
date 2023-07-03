@@ -1,0 +1,29 @@
+.div-wrapper {
+  align-items: center;
+  background-color: #ebf4f8;
+  border-radius: 20px;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  padding: 12.5px 30px;
+  position: relative;
+  width: fit-content;
+}
+
+.div-wrapper .learn-more {
+  color: #7c9cbf;
+  font-family: "Helvetica Neue-Bold", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.div-wrapper .img {
+  height: 15px;
+  min-width: 15px;
+  position: relative;
+}

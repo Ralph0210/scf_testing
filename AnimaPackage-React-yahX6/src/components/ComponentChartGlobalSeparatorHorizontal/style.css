@@ -1,0 +1,18 @@
+.component-chart-global-separator-horizontal {
+  height: 1px;
+  width: 100px;
+}
+
+.component-chart-global-separator-horizontal .seprator-wrapper {
+  height: 1px;
+  overflow: hidden;
+}
+
+.component-chart-global-separator-horizontal .seprator {
+  background-color: #dbe2ea;
+  height: 3px;
+  left: -1px;
+  position: relative;
+  top: -1px;
+  width: 102px;
+}

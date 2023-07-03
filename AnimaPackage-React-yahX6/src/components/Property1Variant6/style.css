@@ -1,0 +1,16 @@
+.property-1-variant6 {
+  align-items: center;
+  background-color: #ebf4f8;
+  border-radius: 20px;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  padding: 12.5px 30px;
+  position: relative;
+  width: fit-content;
+}
+
+.property-1-variant6 .language-selection-instance {
+  min-width: 40px !important;
+  width: unset !important;
+}

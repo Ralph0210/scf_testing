@@ -1,0 +1,69 @@
+.controls-slider {
+  height: 30px;
+  width: 335px;
+}
+
+.controls-slider .overlap-wrapper {
+  height: 30px;
+  left: -18px;
+  position: relative;
+  width: 249px;
+}
+
+.controls-slider .overlap {
+  height: 30px;
+  position: relative;
+  width: 250px;
+}
+
+.controls-slider .fill {
+  background-color: #dbe2ea;
+  border-radius: 2px;
+  height: 4px;
+  left: 17px;
+  position: absolute;
+  top: 14px;
+  width: 233px;
+}
+
+.controls-slider .progress-status {
+  height: 30px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 218px;
+}
+
+.controls-slider .overlap-group {
+  height: 46px;
+  left: -8px;
+  position: relative;
+  top: -4px;
+  width: 234px;
+}
+
+.controls-slider .status {
+  background-color: #7c9cbf;
+  border-radius: 2px;
+  height: 4px;
+  left: 25px;
+  position: absolute;
+  top: 18px;
+  width: 200px;
+}
+
+.controls-slider .oval {
+  height: 46px;
+  left: 188px;
+  position: absolute;
+  top: 0;
+  width: 46px;
+}
+
+.controls-slider .img {
+  height: 46px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 46px;
+}

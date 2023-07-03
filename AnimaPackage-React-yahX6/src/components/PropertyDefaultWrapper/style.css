@@ -1,0 +1,57 @@
+.property-default-wrapper {
+  align-items: center;
+  border-radius: 20px;
+  display: flex;
+  gap: 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.property-default-wrapper .lorem-ipsum {
+  color: #7c9cbf;
+  font-family: "Helvetica Neue-Medium", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.property-default-wrapper .lorem-ipsum-2 {
+  color: #fdfffc;
+  font-family: "Helvetica Neue-Medium", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.property-default-wrapper .home-icon-property {
+  align-items: flex-start;
+  display: flex;
+  gap: 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.property-default-wrapper .icon-check {
+  height: 30px;
+  min-width: 30px;
+  position: relative;
+}
+
+.property-default-wrapper.default {
+  background-color: #ebf4f8;
+  padding: 12.5px 30px;
+}
+
+.property-default-wrapper.variant-2 {
+  background-color: #0e518e;
+  padding: 7.5px 30px;
+}

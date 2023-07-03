@@ -1,0 +1,1 @@
+export { ComponentChartGlobalSeparatorHorizontal } from "./ComponentChartGlobalSeparatorHorizontal";

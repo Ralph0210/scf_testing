@@ -1,0 +1,371 @@
+.frame {
+  border-radius: 20px;
+  height: 750px;
+  overflow: hidden;
+  position: relative;
+  width: 1220px;
+}
+
+.frame .overlap-group {
+  height: 659px;
+  left: 34px;
+  position: absolute;
+  top: 46px;
+  width: 659px;
+}
+
+.frame .ellipse {
+  background-color: #0e518e80;
+  border-radius: 15px;
+  height: 30px;
+  left: 314px;
+  position: absolute;
+  top: 314px;
+  width: 30px;
+}
+
+.frame .div {
+  border: 1px solid;
+  border-color: #1e201980;
+  border-radius: 80px;
+  height: 160px;
+  left: 249px;
+  position: absolute;
+  top: 249px;
+  width: 160px;
+}
+
+.frame .ellipse-stroke {
+  height: 629px;
+  left: 15px;
+  position: absolute;
+  top: 15px;
+  width: 629px;
+}
+
+.frame .ellipse-2 {
+  border: 1px solid;
+  border-color: #1e201980;
+  border-radius: 205px;
+  height: 410px;
+  left: 124px;
+  position: absolute;
+  top: 124px;
+  width: 410px;
+}
+
+.frame .ellipse-3 {
+  background-color: #70b77e80;
+  border-radius: 15px;
+  height: 30px;
+  left: 234px;
+  position: absolute;
+  top: 314px;
+  transform: rotate(-180deg);
+  width: 30px;
+}
+
+.frame .ellipse-4 {
+  background-color: #70b77e80;
+  border-radius: 15px;
+  height: 30px;
+  left: 314px;
+  position: absolute;
+  top: 234px;
+  transform: rotate(-180deg);
+  width: 30px;
+}
+
+.frame .ellipse-5 {
+  background-color: #d81e5b80;
+  border-radius: 15px;
+  height: 30px;
+  left: 394px;
+  position: absolute;
+  top: 314px;
+  width: 30px;
+}
+
+.frame .ellipse-6 {
+  background-color: #ff9f1c80;
+  border-radius: 15px;
+  height: 30px;
+  left: 314px;
+  position: absolute;
+  top: 394px;
+  transform: rotate(-180deg);
+  width: 30px;
+}
+
+.frame .ellipse-7 {
+  background-color: #70b77e80;
+  border-radius: 15px;
+  height: 30px;
+  left: 194px;
+  position: absolute;
+  top: 147px;
+  width: 30px;
+}
+
+.frame .ellipse-8 {
+  background-color: #70b77e80;
+  border-radius: 15px;
+  height: 30px;
+  left: 0;
+  position: absolute;
+  top: 314px;
+  transform: rotate(-180deg);
+  width: 30px;
+}
+
+.frame .ellipse-9 {
+  background-color: #70b77e80;
+  border-radius: 15px;
+  height: 30px;
+  left: 36px;
+  position: absolute;
+  top: 177px;
+  transform: rotate(-180deg);
+  width: 30px;
+}
+
+.frame .ellipse-10 {
+  background-color: #70b77e80;
+  border-radius: 15px;
+  height: 30px;
+  left: 94px;
+  position: absolute;
+  top: 88px;
+  transform: rotate(-180deg);
+  width: 30px;
+}
+
+.frame .ellipse-11 {
+  background-color: #70b77e80;
+  border-radius: 15px;
+  height: 30px;
+  left: 504px;
+  position: absolute;
+  top: 66px;
+  transform: rotate(-180deg);
+  width: 30px;
+}
+
+.frame .ellipse-12 {
+  background-color: #70b77e80;
+  border-radius: 15px;
+  height: 30px;
+  left: 370px;
+  position: absolute;
+  top: 124px;
+  transform: rotate(-180deg);
+  width: 30px;
+}
+
+.frame .ellipse-13 {
+  background-color: #70b77e80;
+  border-radius: 15px;
+  height: 30px;
+  left: 314px;
+  position: absolute;
+  top: 0;
+  transform: rotate(-180deg);
+  width: 30px;
+}
+
+.frame .ellipse-14 {
+  background-color: #70b77e80;
+  border-radius: 15px;
+  height: 30px;
+  left: 364px;
+  position: absolute;
+  top: 6px;
+  transform: rotate(-180deg);
+  width: 30px;
+}
+
+.frame .ellipse-15 {
+  background-color: #70b77e80;
+  border-radius: 15px;
+  height: 30px;
+  left: 414px;
+  position: absolute;
+  top: 15px;
+  transform: rotate(-180deg);
+  width: 30px;
+}
+
+.frame .ellipse-16 {
+  background-color: #d81e5b80;
+  border-radius: 15px;
+  height: 30px;
+  left: 629px;
+  position: absolute;
+  top: 314px;
+  width: 30px;
+}
+
+.frame .ellipse-17 {
+  background-color: #d81e5b80;
+  border-radius: 15px;
+  height: 30px;
+  left: 607px;
+  position: absolute;
+  top: 431px;
+  transform: rotate(-180deg);
+  width: 30px;
+}
+
+.frame .ellipse-18 {
+  background-color: #ff9f1c80;
+  border-radius: 15px;
+  height: 30px;
+  left: 314px;
+  position: absolute;
+  top: 629px;
+  transform: rotate(-180deg);
+  width: 30px;
+}
+
+.frame .ellipse-19 {
+  background-color: #d81e5b;
+  border-radius: 15px;
+  height: 30px;
+  left: 482px;
+  position: absolute;
+  top: 431px;
+  transform: rotate(-180deg);
+  width: 30px;
+}
+
+.frame .ellipse-20 {
+  background-color: #d81e5bbf;
+  border-radius: 26px;
+  height: 52px;
+  left: 471px;
+  position: absolute;
+  top: 420px;
+  transform: rotate(-180deg);
+  width: 52px;
+}
+
+.frame .ellipse-21 {
+  background-color: #d81e5b80;
+  border-radius: 35.5px;
+  height: 71px;
+  left: 462px;
+  position: absolute;
+  top: 411px;
+  transform: rotate(-180deg);
+  width: 71px;
+}
+
+.frame .ellipse-22 {
+  background-color: #ff9f1c80;
+  border-radius: 15px;
+  height: 30px;
+  left: 394px;
+  position: absolute;
+  top: 504px;
+  transform: rotate(-180deg);
+  width: 30px;
+}
+
+.frame .ellipse-23 {
+  background-color: #ff9f1c80;
+  border-radius: 15px;
+  height: 30px;
+  left: 257px;
+  position: absolute;
+  top: 510px;
+  transform: rotate(-180deg);
+  width: 30px;
+}
+
+.frame .ellipse-24 {
+  background-color: #ff9f1c80;
+  border-radius: 15px;
+  height: 30px;
+  left: 156px;
+  position: absolute;
+  top: 446px;
+  transform: rotate(-180deg);
+  width: 30px;
+}
+
+.frame .ellipse-25 {
+  background-color: #d81e5b80;
+  border-radius: 15px;
+  height: 30px;
+  left: 512px;
+  position: absolute;
+  top: 264px;
+  transform: rotate(-180deg);
+  width: 30px;
+}
+
+.frame .vector {
+  height: 98px;
+  left: 423px;
+  position: absolute;
+  top: 332px;
+  width: 44px;
+}
+
+.frame .credit-card {
+  color: #d81e5b;
+  font-family: "IBM Plex Sans", Helvetica;
+  font-size: 20px;
+  font-weight: 600;
+  left: 534px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 455px;
+}
+
+.frame .div-2 {
+  align-items: center;
+  background-color: #0e518e;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 300px;
+  height: 750px;
+  left: 800px;
+  padding: 90px 45px;
+  position: absolute;
+  top: 0;
+  width: 420px;
+}
+
+.frame .comprehensive {
+  color: #ffffff;
+  font-family: "Helvetica Neue-Bold", Helvetica;
+  font-size: 40px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.frame .the-SCF-conducted-by {
+  color: transparent;
+  font-family: "Helvetica Neue-Medium", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: 320px;
+}
+
+.frame .text-wrapper {
+  color: #ffffffbf;
+}
+
+.frame .span {
+  color: #ffffff;
+}
